@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level width="14.22" height="8">
+    <items>
+        <background width="14.22" height="8" image="background1.png"/>
+        <slingshot x="-5.5" y="0.25"/>
+        <block x="0" y="0.125" width="14.22" height="0.23" repeat-x="35" type="static" image="sand.png"/>
+        <foe x="3.09669" y="1.8305" angle="22.8317" radius="0.3" down="1" image="foeO.png"/>
+    </items>
+    <angry x="-6.5" y="0.3" spacing="0.6">
+        <gruff-sparty/><helmet-sparty/></angry></level>
